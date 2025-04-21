@@ -1,4 +1,4 @@
-# Bunnis_SLCTS
+# Bunni's Secret Laboratory:Custom Translation
 
 A custom translation for SCP:Secret Laboratory created by Bunni.
 
