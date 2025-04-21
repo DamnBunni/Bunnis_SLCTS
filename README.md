@@ -62,9 +62,9 @@ If you have any proposals or questions feel free to direct message me on Discord
 ![RTT 2](https://github.com/user-attachments/assets/904577f8-ecd7-4109-a316-ca9fd3128bdb)
 ![RTT 1](https://github.com/user-attachments/assets/a6bcc916-2e7e-4f81-bdc3-ad64b5c2d5ab)
 ![Other Game Hint](https://github.com/user-attachments/assets/843878b4-8d7d-4d03-a16c-6982f83b7f7a)
+![Ammo Game Hint](https://github.com/user-attachments/assets/7fc35332-cf4b-42e1-9313-c70cbfd3e19f)
 ![New Stalemate Summary](https://github.com/user-attachments/assets/a9575969-645a-405d-8bd5-f3a4d94e6c7c)
 ![New SCP Summary](https://github.com/user-attachments/assets/fa1d255e-06e0-43fe-872b-d442306f74c4)
 ![New NTF Summary](https://github.com/user-attachments/assets/25d2bf2d-8015-48c3-b005-43ce9b890755)
 ![New Chaos Summary](https://github.com/user-attachments/assets/03e6d005-776d-485e-b9c7-eaba1d2f5f60)
-![Ammo Game Hint](https://github.com/user-attachments/assets/7fc35332-cf4b-42e1-9313-c70cbfd3e19f)
 
