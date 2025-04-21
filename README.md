@@ -26,9 +26,9 @@ Updates will occasionally be released, the translation is up-to-date for 14.1.
 **And much more to arrive.**
 
 # Credits
-Creator: Damnbunni. - Created this wonderful translation mod
-Contributer: Dracoslayer - His tutorial helped out a tiny bit.
-Contributer: Xaira - Learned most shit from his tutorial.
+* Creator: Damnbunni. - Created this wonderful translation mod
+* Contributer: Dracoslayer - His tutorial helped out a tiny bit.
+* Contributer: Xaira - Learned most shit from his tutorial.
 
 # Showcase of different things in this custom translation:
 ![700330_257](https://github.com/user-attachments/assets/d74fc806-9d8c-4660-84ee-cf885f132462)
