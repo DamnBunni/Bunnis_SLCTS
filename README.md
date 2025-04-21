@@ -7,6 +7,24 @@ This translation is heavily customized, if you're not into that then don't use t
 # Current Version: 1.3
 Updates will occasionally be released, the translation is up-to-date for 14.1.
 
+**Things you should expect in this custom translation are:**
+* Colored inventory item names.
+* Edited inventory item names.
+* Different colors for each SCP role.
+* A handful of pink themed menus.
+* Better and colored subtitles.
+* Over 100 custom loading hints.
+* A ton of other small changes.
+* Round summary changes.
+* Keycard item name changes. (not inventory, this future is exclusive to 14.1)
+* Legacy interface changes. (Eg. Rank displays when hovering over Guard or MTF soldier.)
+* Item Description changes. (Not finished yet, needs a complete re-do)
+* SCP-079 Interface color overhaul.
+* Small Remote Admin color changes.
+* Door Panel changes (Exclusive to 14.0, will be removed once 14.1 is fully released.)
+* 14.1 Support.
+**And much more to arrive.**
+
 # Showcase of different things in this custom translation:
 ![700330_257](https://github.com/user-attachments/assets/d74fc806-9d8c-4660-84ee-cf885f132462)
 ![700330_256](https://github.com/user-attachments/assets/acfdc304-cfb4-43de-a64a-23dbe9e50310)
