@@ -25,6 +25,11 @@ Updates will occasionally be released, the translation is up-to-date for 14.1.
 * 14.1 Support.
 **And much more to arrive.**
 
+# Credits
+Creator: Damnbunni. - Created this wonderful translation mod
+Contributer: Dracoslayer - His tutorial helped out a tiny bit.
+Contributer: Xaira - Learned most shit from his tutorial.
+
 # Showcase of different things in this custom translation:
 ![700330_257](https://github.com/user-attachments/assets/d74fc806-9d8c-4660-84ee-cf885f132462)
 ![700330_256](https://github.com/user-attachments/assets/acfdc304-cfb4-43de-a64a-23dbe9e50310)
@@ -50,8 +55,3 @@ Updates will occasionally be released, the translation is up-to-date for 14.1.
 ![700330_230](https://github.com/user-attachments/assets/e49c43d8-ab34-4c93-b29d-6e9583d8efbd)
 ![700330_231](https://github.com/user-attachments/assets/7d886ef3-3343-4604-98a4-c4c893a4b088)
 ![700330_1](https://github.com/user-attachments/assets/56ed313f-038b-40d7-8b7b-665dfec14736)
-
-# Credits
-Creator * Damnbunni. - Created this wonderful translation mod
-Contributer * Dracoslayer - His tutorial helped out a tiny bit.
-Contributer * Xaira - Learned most shit from his tutorial.
