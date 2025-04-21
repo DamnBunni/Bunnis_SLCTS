@@ -30,6 +30,8 @@ Updates will occasionally be released, the translation is up-to-date for 14.1.
 * Contributer: Dracoslayer - His tutorial helped out a tiny bit.
 * Contributer: Xaira - Learned most shit from his tutorial.
 
+# [Discord Server Link](https://discord.gg/hp55jARJZY)
+
 # Showcase of different things in this custom translation:
 ![700330_257](https://github.com/user-attachments/assets/d74fc806-9d8c-4660-84ee-cf885f132462)
 ![700330_256](https://github.com/user-attachments/assets/acfdc304-cfb4-43de-a64a-23dbe9e50310)
