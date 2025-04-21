@@ -15,13 +15,16 @@ Updates will occasionally be released, the translation is up-to-date for 14.1.
 * Better and colored subtitles.
 * Over 100 custom loading hints.
 * A ton of other small changes.
-* Round summary changes. (Currently in the works of changing it completely)
-* Keycard item name changes. (not inventory, this future is exclusive to 14.1)
+* Round summary changes.
+* Keycard label changes. (This future is exclusive to 14.1)
 * Legacy interface changes. (Eg. Rank displays when hovering over Guard or MTF soldier.)
-* Item Description changes. (Not finished yet, needs a complete re-do)
+* Item Description changes.
 * SCP-079 Interface color overhaul.
 * Small Remote Admin color changes.
 * Door Panel changes (Exclusive to 14.0, will be removed once 14.1 is fully released.)
+* Death Reason Changes.
+* Respawn UI Tooltip Changes.
+* Game Hint Changes.
 * 14.1 Support.
 **And much more to arrive.**
 
