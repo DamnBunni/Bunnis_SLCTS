@@ -15,7 +15,7 @@ Updates will occasionally be released, the translation is up-to-date for 14.1.
 * Better and colored subtitles.
 * Over 100 custom loading hints.
 * A ton of other small changes.
-* Round summary changes.
+* Round summary changes. (Currently in the works of changing it completely)
 * Keycard item name changes. (not inventory, this future is exclusive to 14.1)
 * Legacy interface changes. (Eg. Rank displays when hovering over Guard or MTF soldier.)
 * Item Description changes. (Not finished yet, needs a complete re-do)
